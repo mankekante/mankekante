@@ -1,9 +1,8 @@
 ## MONDE DE LA CYBERSECURITE && DEVOPS 👋
 
-INGENIEUR CYBERSECURITE - System & Manager Engeneer 
-4 ans d'expériences
                              Etat Civil:
-                      Profile: Ingénieur Cybersécurité || Admin Système
+                      Profile: Ingénieur Cybersécurité || Admin Système 
+                      4 ans d'expériences
                       Né: 20 Jan 1996
                       Pays: Guinée
                       Adresse: Conakry
